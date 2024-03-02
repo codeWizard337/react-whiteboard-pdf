@@ -121,12 +121,3 @@ const App = () => {
 npm i
 npm start
 ```
-
-## Author:
-
-[SMILES00714](https://github.com/SMILES00714)
-
-## Contributors:
-
-Thanks for your help in building this project
-[SMILES00714](https://github.com/SMILES00714)
